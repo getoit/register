@@ -1,0 +1,12 @@
+{
+  "description": "morphoit.is-a.dev",
+  "repo": "https://github.com/radio-indonesia/radio-indonesia.github.io",
+  "owner": {
+    "username": "morphoit",
+    "email": "unlibot002@gmail.com",
+    "discord": "morphoit"
+  },
+  "record": {
+    "CNAME": "morphoit.github.io"
+  }
+}
